@@ -1,9 +1,5 @@
 # 📅 API Festivos - Simulado
 
-Aplicación fullstack que permite consultar si una fecha es festiva y visualizar un listado de festivos simulados. Este proyecto fue construido con Angular (frontend) y Spring Boot (backend), usando una lógica sin conexión a base de datos (mock).
-
----
-
 ## 🔧 Tecnologías utilizadas
 
 | Backend             | Frontend       |
@@ -23,39 +19,13 @@ Aplicación fullstack que permite consultar si una fecha es festiva y visualizar
 - 💡 Simulación de lógica de negocio sin persistencia real.
 - 💻 Interfaz gráfica amigable en Angular.
 
----
-
-## 🗂 Estructura del proyecto
-
-```
-📦 api-festivos-simulado
-├── backend-festivos
-│   └── src/main/java/com/example/festivos/
-│       ├── Festivo.java
-│       ├── Tipo.java
-│       ├── FestivoController.java
-│       ├── FakeFestivoRepository.java
-│       └── FestivosApplication.java
-│
-└── frontend-festivos
-    └── src/app/
-        ├── app.component.ts
-        ├── app.component.html
-        ├── festivo.service.ts
-        └── ...
-```
-
----
 
 ## 👥 Integrantes del proyecto
 
-| Nombre               | Rol                   |
-|----------------------|------------------------|
-| Jeremías Palacio     | Arquitecto Fullstack   |
-| [Nombre integrante 2] | Frontend Developer     |
-| [Nombre integrante 3] | Backend Developer      |
-
-> 💡 Puedes modificar esta tabla según tu equipo.
+| Nombre                    |
+|---------------------------|
+| Maria Isabel Trejos Largo |
+| Faber Josue Palacio Cuyan |
 
 ---
 
@@ -102,12 +72,3 @@ La app estará disponible en: `http://localhost:4200`
 
 ---
 
-## 📝 Licencia
-
-Este proyecto fue desarrollado con fines educativos y puede ser reutilizado para prácticas académicas o personales.
-
----
-
-## 🎓 Créditos
-
-Hecho con ❤️ por estudiantes apasionados por la tecnología y la arquitectura de software moderna.

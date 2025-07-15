@@ -6,8 +6,6 @@
 |---------------------|----------------|
 | Java 21             | Angular 17     |
 | Spring Boot 3.2.5   | TypeScript     |
-| Spring Web          | RxJS           |
-| Spring Data (fake)  | Bootstrap (UI) |
 | Maven               | Angular CLI    |
 
 ---

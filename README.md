@@ -14,8 +14,6 @@
 
 - 🔍 **Verificar si una fecha es festiva** mediante el endpoint `/verificar?fecha=YYYY-MM-DD`.
 - 📆 **Listar todos los días festivos simulados**.
-- 💡 Simulación de lógica de negocio sin persistencia real.
-- 💻 Interfaz gráfica amigable en Angular.
 
 
 ## 👥 Integrantes del proyecto

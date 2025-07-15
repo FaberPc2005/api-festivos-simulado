@@ -1,0 +1,40 @@
+# --- Node / Angular ---
+node_modules/
+dist/
+.env
+package-lock.json
+npm-debug.log
+
+# Angular build artifacts
+.angular/
+out-tsc/
+
+# IDEs
+.vscode/
+
+# --- Java / Spring Boot ---
+target/
+*.class
+*.jar
+*.war
+*.iml
+.gradle/
+build/
+!src/main/resources/
+!src/test/resources/
+**/logs/
+*.log
+*.db
+*.h2.db
+.DS_Store
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ
+.idea/
+*.iws
+*.ipr
+*.iml
